@@ -17,14 +17,7 @@ I build deployed web applications that feel clear, useful, and real from the fir
 
 I am a web developer focused on building practical product-style applications, not only code exercises.
 
-My work sits between:
-
-- frontend execution
-- product thinking
-- clean user flows
-- backend/API understanding
-- AI-assisted development
-- teaching and explaining technical concepts clearly
+My work sits between frontend execution, product thinking, clean user flows, backend/API understanding, AI-assisted development, and teaching technical concepts clearly.
 
 I care about building applications that people can understand quickly, use easily, and improve over time.
 
@@ -32,15 +25,15 @@ I care about building applications that people can understand quickly, use easil
 
 ## Featured Work
 
-### NATHRA
+### Zakn
 
-Health-risk analysis web app focused on making health-related information easier to understand through a clear digital experience.
+A product-validation web app designed to help founders test project ideas before wasting money on the wrong direction.
 
-![NATHRA Screenshot](./assets/nathra-preview.png)
+![Zakn Project Screenshot](./assets/zakn-preview.png)
 
-- Live Demo: https://nathra.vercel.app/
-- Code: https://github.com/moslemajra85/nathra
-- Focus: product flow, health-risk analysis, frontend clarity, deployed prototype
+- Live Demo: https://zakintest-c7j3qezy.manus.space/
+- Portfolio Preview: https://portofio-sigma.vercel.app/
+- Focus: product clarity, landing page communication, responsive UI, founder-focused experience
 
 ---
 
@@ -56,18 +49,15 @@ A product-minded developer portfolio designed as a proof page, not only a resume
 
 ---
 
-### More Projects Coming
+### NATHRA
 
-I am currently improving my GitHub with stronger full-stack and AI-assisted projects.
+A health-risk analysis web app focused on making health-related information easier to understand through a clear digital experience.
 
-Upcoming focus:
+![NATHRA Screenshot](./assets/nathra-preview.png)
 
-- AI product research assistant
-- Full-stack dashboard apps
-- Backend APIs with authentication
-- Dockerized development setup
-- Testing with Vitest
-- RAG-based learning projects
+- Live Demo: https://nathra.vercel.app/
+- Code: https://github.com/moslemajra85/nathra
+- Focus: product flow, health-risk analysis, frontend clarity, deployed prototype
 
 ---
 
