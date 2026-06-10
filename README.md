@@ -1,70 +1,138 @@
+<div align="center">
+
 # Moslem Ajra
 
-**Product-minded Web Developer**  
-JavaScript | TypeScript | React | Node.js | Express | MongoDB | PostgreSQL
+### Product-Minded Web Developer  
+#### React • TypeScript • Node.js • Express • MongoDB • PostgreSQL • AI-assisted Products
 
-I build deployed web applications with clear user experience, clean frontend structure, and practical backend/API thinking.
+I build deployed web applications that feel clear, useful, and real from the first click.
 
-My current direction is simple:
+[Portfolio](https://portofio-sigma.vercel.app/) • [Email](mailto:ajra.new.era@gmail.com) • [LinkedIn](ADD_YOUR_LINKEDIN_HERE)
 
-> Build real product-style applications, deploy them, explain the decisions, and keep improving them like production software.
+</div>
 
 ---
 
-## Selected Work
+## About Me
+
+I am a web developer focused on building practical product-style applications, not only code exercises.
+
+My work sits between:
+
+- frontend execution
+- product thinking
+- clean user flows
+- backend/API understanding
+- AI-assisted development
+- teaching and explaining technical concepts clearly
+
+I care about building applications that people can understand quickly, use easily, and improve over time.
+
+---
+
+## Featured Work
 
 ### NATHRA
 
 Health-risk analysis web app focused on making health-related information easier to understand through a clear digital experience.
 
+![NATHRA Screenshot](./assets/nathra-preview.png)
+
 - Live Demo: https://nathra.vercel.app/
 - Code: https://github.com/moslemajra85/nathra
-- Focus: UI clarity, product flow, deployed frontend, health-risk analysis experience
+- Focus: product flow, health-risk analysis, frontend clarity, deployed prototype
+
+---
 
 ### Portfolio Website
 
-Personal portfolio built to present my work as product proof, not only as a resume page.
+A product-minded developer portfolio designed as a proof page, not only a resume page.
+
+![Portfolio Screenshot](./assets/portfolio-preview.png)
 
 - Live Demo: https://portofio-sigma.vercel.app/
-- Code: Add your portfolio repo link here
-- Focus: responsive UI, project presentation, product positioning
+- Code: ADD_YOUR_PORTFOLIO_REPO_LINK_HERE
+- Focus: responsive interface, project presentation, positioning, UX clarity
+
+---
 
 ### More Projects Coming
 
-I am currently improving my project portfolio with full-stack and AI-assisted applications.
+I am currently improving my GitHub with stronger full-stack and AI-assisted projects.
 
----
+Upcoming focus:
 
-## What I Build
-
-- Product-focused web applications
-- React frontends
-- Node.js / Express APIs
-- MongoDB and PostgreSQL-based backends
-- AI-assisted product prototypes
-- Teaching-friendly developer examples
-
----
-
-## Tech Stack
-
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Prisma  
-**Tools:** Git, GitHub, Linux, Docker, Vercel  
-**Learning deeply:** Testing, CI/CD, RAG systems, AI application architecture
+- AI product research assistant
+- Full-stack dashboard apps
+- Backend APIs with authentication
+- Dockerized development setup
+- Testing with Vitest
+- RAG-based learning projects
 
 ---
 
 ## Current Focus
 
-I am currently building projects that combine:
+```txt
+Frontend quality
+Backend/API design
+AI-assisted applications
+Testing and CI/CD
+Docker and deployment
+Production-minded project structure
+```
 
-- Strong frontend execution
-- Backend/API design
-- AI-assisted features
-- Deployment
-- Clear documentation
-- Production-minded structure
+---
+
+## Tech Stack
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## How I Build
+
+I try to approach projects like products:
+
+1. Understand the user problem.
+2. Design a clear flow.
+3. Build the smallest useful version.
+4. Deploy it.
+5. Document the decisions.
+6. Improve the structure.
+7. Add production-minded features.
+
+---
+
+## GitHub Direction
+
+My GitHub is being cleaned and upgraded around serious, readable, deployed projects.
+
+The goal is simple:
+
+> Each public repository should explain what the project does, why it exists, how it works, and what I learned from it.
 
 ---
 
@@ -72,4 +140,4 @@ I am currently building projects that combine:
 
 - Portfolio: https://portofio-sigma.vercel.app/
 - Email: ajra.new.era@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: ADD_YOUR_LINKEDIN_HERE
