@@ -27,6 +27,8 @@ I care about building applications that people can understand quickly, use easil
 
 ### Ticketing — Microservices Learning Platform
 
+[![Status: Under Development](https://img.shields.io/badge/status-under%20development-F59E0B)](https://github.com/moslemajra85/ticketing-app)
+
 A production-minded ticket marketplace built incrementally to explore microservice boundaries, database ownership, container orchestration, and reliable distributed-system design.
 
 - [Source code and project overview](https://github.com/moslemajra85/ticketing-app)
@@ -34,7 +36,7 @@ A production-minded ticket marketplace built incrementally to explore microservi
 - Current milestone: authentication service with validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
 - Focus: backend architecture, service isolation, Kubernetes networking, security, and production-readiness trade-offs
 
-> Status: active development. The repository clearly separates implemented capabilities from the planned event-driven marketplace architecture.
+> **Under development:** the authentication foundation is implemented; the customer-facing marketplace screens and remaining services are a documented product vision, not completed functionality.
 
 ---
 
