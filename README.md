@@ -58,6 +58,21 @@ A responsive React and TypeScript game-discovery interface powered by RAWG, with
 
 ---
 
+### Missile Defender — Radar Interception Simulation
+
+[![Status: Deployed Prototype](https://img.shields.io/badge/status-deployed%20prototype-2EA44F)](https://missile-defender-circle-blaster.lovable.app/)
+
+A fictional real-time Canvas simulation of radar scanning, threat detection, interceptor guidance, collision handling, and particle explosions, developed with Lovable, React, and TypeScript.
+
+[![Missile Defender live radar simulation](https://raw.githubusercontent.com/moslemajra85/missile-defender-circle-blaster/main/docs/screenshots/missile-defender-live.png)](https://missile-defender-circle-blaster.lovable.app/)
+
+- [Live simulation](https://missile-defender-circle-blaster.lovable.app/)
+- [Source code and project overview](https://github.com/moslemajra85/missile-defender-circle-blaster)
+- [System design and future architecture](https://github.com/moslemajra85/missile-defender-circle-blaster/blob/main/docs/system-design.md)
+- Focus: animation loops, simulation state, Canvas rendering, detection geometry, entity lifecycles, and extensible architecture
+
+---
+
 ### Zakn
 
 A product-validation web app designed to help founders test project ideas before wasting money on the wrong direction.
