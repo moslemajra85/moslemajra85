@@ -43,6 +43,21 @@ A production-minded ticket marketplace built incrementally to explore microservi
 
 ---
 
+### Mossy Game Explorer
+
+[![Status: Deployed Prototype](https://img.shields.io/badge/status-deployed%20prototype-2EA44F)](https://mossy-game-explorer.vercel.app/)
+
+A responsive React and TypeScript game-discovery interface powered by RAWG, with catalogue search, genre and platform filtering, sorting, score comparisons, loading states, and light/dark themes.
+
+[![Mossy Game Explorer live application](https://raw.githubusercontent.com/moslemajra85/mossy-game-explorer/main/docs/screenshots/game-explorer-home.png)](https://mossy-game-explorer.vercel.app/)
+
+- [Live demo](https://mossy-game-explorer.vercel.app/)
+- [Source code and project overview](https://github.com/moslemajra85/mossy-game-explorer)
+- [System design](https://github.com/moslemajra85/mossy-game-explorer/blob/main/docs/system-design.md)
+- Focus: responsive component design, typed API integration, query-driven state, loading/error handling, and static deployment
+
+---
+
 ### Zakn
 
 A product-validation web app designed to help founders test project ideas before wasting money on the wrong direction.
