@@ -31,7 +31,10 @@ I care about building applications that people can understand quickly, use easil
 
 A production-minded ticket marketplace built incrementally to explore microservice boundaries, database ownership, container orchestration, and reliable distributed-system design.
 
+[![Ticketing marketplace product-vision mockup](https://raw.githubusercontent.com/moslemajra85/ticketing-app/main/docs/mockups/marketplace-discovery.png)](https://github.com/moslemajra85/ticketing-app#product-vision--concept-mockups)
+
 - [Source code and project overview](https://github.com/moslemajra85/ticketing-app)
+- [Product-vision mockup gallery](https://github.com/moslemajra85/ticketing-app#product-vision--concept-mockups)
 - [System architecture](https://github.com/moslemajra85/ticketing-app/blob/main/docs/system-architecture.md)
 - Current milestone: authentication service with validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
 - Focus: backend architecture, service isolation, Kubernetes networking, security, and production-readiness trade-offs
