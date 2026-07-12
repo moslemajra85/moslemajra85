@@ -25,6 +25,19 @@ I care about building applications that people can understand quickly, use easil
 
 ## Featured Work
 
+### Ticketing — Microservices Learning Platform
+
+A production-minded ticket marketplace built incrementally to explore microservice boundaries, database ownership, container orchestration, and reliable distributed-system design.
+
+- [Source code and project overview](https://github.com/moslemajra85/ticketing-app)
+- [System architecture](https://github.com/moslemajra85/ticketing-app/blob/main/docs/system-architecture.md)
+- Current milestone: authentication service with validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
+- Focus: backend architecture, service isolation, Kubernetes networking, security, and production-readiness trade-offs
+
+> Status: active development. The repository clearly separates implemented capabilities from the planned event-driven marketplace architecture.
+
+---
+
 ### Zakn
 
 A product-validation web app designed to help founders test project ideas before wasting money on the wrong direction.
@@ -98,6 +111,7 @@ Production-minded project structure
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
