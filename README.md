@@ -92,7 +92,6 @@ A product-minded developer portfolio designed as a proof page, not only a resume
 ![Portfolio Screenshot](./assets/portfolio-preview.png)
 
 - Live Demo: https://portofio-sigma.vercel.app/
-- Code: ADD_YOUR_PORTFOLIO_REPO_LINK_HERE
 - Focus: responsive interface, project presentation, positioning, UX clarity
 
 ---
@@ -179,4 +178,3 @@ The goal is simple:
 
 - Portfolio: https://portofio-sigma.vercel.app/
 - Email: ajra.new.era@gmail.com
-- LinkedIn: ADD_YOUR_LINKEDIN_HERE
