@@ -54,6 +54,20 @@ A dependency-free task manager used to explain how application state drives the 
 
 ## Selected engineering work
 
+### Cartesian — interactive algorithm handbook
+
+[![Status: Active Development](https://img.shields.io/badge/status-active%20development-FF655C)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+[![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?logo=typescript&logoColor=white)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+
+A visual learning environment that makes algorithm execution inspectable through animated state, synchronized pseudocode, and step-by-step reasoning.
+
+- [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+- [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
+- Current milestone: responsive handbook shell and a complete Bubble Sort lesson with playback controls, immutable algorithm events, and unit tests
+- Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
+
+[![Cartesian Bubble Sort lesson](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/bubble-sort-lesson.png)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+
 ### Ticketing — microservices learning platform
 
 [![Status: Under Development](https://img.shields.io/badge/status-under%20development-F59E0B)](https://github.com/moslemajra85/ticketing-app)
