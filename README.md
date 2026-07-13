@@ -109,3 +109,5 @@ I am organizing my teaching repositories into clearer learning paths and upgradi
 
 - [Portfolio](https://portofio-sigma.vercel.app/)
 - [Email](mailto:ajra.new.era@gmail.com)
+
+<!-- Profile content maintained in the default branch. -->
