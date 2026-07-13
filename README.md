@@ -2,179 +2,110 @@
 
 # Moslem Ajra
 
-### Product-Minded Web Developer  
-#### React • TypeScript • Node.js • Express • MongoDB • PostgreSQL • AI-assisted Products
+### Software Engineering Educator & Web Developer
 
-I build deployed web applications that feel clear, useful, and real from the first click.
+**JavaScript · TypeScript · React · Node.js · Software Design · Project-Based Teaching**
 
-[Portfolio](https://portofio-sigma.vercel.app/) • [Email](mailto:ajra.new.era@gmail.com) • [LinkedIn](ADD_YOUR_LINKEDIN_HERE)
+I teach programming through small, practical projects and build web applications with a focus on clear architecture, accessible interfaces, and explainable engineering decisions.
+
+[Portfolio](https://portofio-sigma.vercel.app/) · [Email](mailto:ajra.new.era@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About this GitHub
 
-I am a web developer focused on building practical product-style applications, not only code exercises.
+This account is both my engineering portfolio and a working classroom space. Many of its repositories were created while teaching students: live coding examples, focused exercises, starter projects, solutions, and experiments used to explain one concept at a time.
 
-My work sits between frontend execution, product thinking, clean user flows, backend/API understanding, AI-assisted development, and teaching technical concepts clearly.
+The number of repositories reflects that teaching workflow. For a quick review, start with the curated work below.
 
-I care about building applications that people can understand quickly, use easily, and improve over time.
+| Area | What you will find |
+| --- | --- |
+| Teaching | Progressive examples, beginner-friendly code, exercises, and written explanations |
+| Software engineering | Architecture notes, explicit trade-offs, testing, APIs, and deployment work |
+| Product development | Responsive, deployed applications built around real user flows |
 
----
+## How I teach
 
-## Featured Work
+My teaching approach is practical and incremental:
 
-### Ticketing — Microservices Learning Platform
+1. Begin with a clear mental model before introducing syntax.
+2. Demonstrate one concept with a small, observable example.
+3. Let students predict, modify, and debug the code.
+4. Connect the lesson to maintainability and production behavior.
+5. Revisit the solution and discuss alternatives and trade-offs.
+
+I want students to understand not only **what works**, but **why it works**, how to debug it, and when a different design would be better.
+
+## Teaching sample
+
+### Study List — state-driven JavaScript
+
+[![Status: Teaching Sample](https://img.shields.io/badge/status-teaching%20sample-6D28D9)](https://github.com/moslemajra85/student-todo-list)
+[![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=000)](https://github.com/moslemajra85/student-todo-list)
+
+A dependency-free task manager used to explain how application state drives the user interface.
+
+- [Source code and lesson overview](https://github.com/moslemajra85/student-todo-list)
+- Concepts: arrays as state, immutable updates, derived data, DOM rendering, browser storage, and accessibility
+- Teaching material: a guided explanation that moves from direct DOM mutation to a predictable state → render loop
+- Engineering focus: semantic HTML, keyboard support, screen-reader announcements, responsive design, and documented limitations
+
+## Selected engineering work
+
+### Ticketing — microservices learning platform
 
 [![Status: Under Development](https://img.shields.io/badge/status-under%20development-F59E0B)](https://github.com/moslemajra85/ticketing-app)
 
-A production-minded ticket marketplace built incrementally to explore microservice boundaries, database ownership, container orchestration, and reliable distributed-system design.
+A ticket marketplace built incrementally to study service boundaries, database ownership, authentication, container orchestration, and distributed-system trade-offs.
 
-[![Ticketing marketplace product-vision mockup](https://raw.githubusercontent.com/moslemajra85/ticketing-app/main/docs/mockups/marketplace-discovery.png)](https://github.com/moslemajra85/ticketing-app#product-vision--concept-mockups)
-
-- [Source code and project overview](https://github.com/moslemajra85/ticketing-app)
-- [Product-vision mockup gallery](https://github.com/moslemajra85/ticketing-app#product-vision--concept-mockups)
-- [System architecture](https://github.com/moslemajra85/ticketing-app/blob/main/docs/system-architecture.md)
-- Current milestone: authentication service with validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
-- Focus: backend architecture, service isolation, Kubernetes networking, security, and production-readiness trade-offs
-
-> **Under development:** the authentication foundation is implemented; the customer-facing marketplace screens and remaining services are a documented product vision, not completed functionality.
-
----
+- [Repository](https://github.com/moslemajra85/ticketing-app) · [System architecture](https://github.com/moslemajra85/ticketing-app/blob/main/docs/system-architecture.md)
+- Implemented foundation: validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
+- Current status is documented honestly; product mockups describe direction, not completed functionality
 
 ### Mossy Game Explorer
 
-[![Status: Deployed Prototype](https://img.shields.io/badge/status-deployed%20prototype-2EA44F)](https://mossy-game-explorer.vercel.app/)
+[![Status: Deployed](https://img.shields.io/badge/status-deployed-15803D)](https://mossy-game-explorer.vercel.app/)
 
-A responsive React and TypeScript game-discovery interface powered by RAWG, with catalogue search, genre and platform filtering, sorting, score comparisons, loading states, and light/dark themes.
+A React and TypeScript game-discovery interface with API-backed search, filtering, sorting, loading and error states, and responsive themes.
 
-[![Mossy Game Explorer live application](https://raw.githubusercontent.com/moslemajra85/mossy-game-explorer/main/docs/screenshots/game-explorer-home.png)](https://mossy-game-explorer.vercel.app/)
+[Live demo](https://mossy-game-explorer.vercel.app/) · [Repository](https://github.com/moslemajra85/mossy-game-explorer) · [System design](https://github.com/moslemajra85/mossy-game-explorer/blob/main/docs/system-design.md)
 
-- [Live demo](https://mossy-game-explorer.vercel.app/)
-- [Source code and project overview](https://github.com/moslemajra85/mossy-game-explorer)
-- [System design](https://github.com/moslemajra85/mossy-game-explorer/blob/main/docs/system-design.md)
-- Focus: responsive component design, typed API integration, query-driven state, loading/error handling, and static deployment
+[![Mossy Game Explorer](https://raw.githubusercontent.com/moslemajra85/mossy-game-explorer/main/docs/screenshots/game-explorer-home.png)](https://mossy-game-explorer.vercel.app/)
 
----
+### Missile Defender — Canvas simulation
 
-### Missile Defender — Radar Interception Simulation
+[![Status: Deployed](https://img.shields.io/badge/status-deployed-15803D)](https://missile-defender-circle-blaster.lovable.app/)
 
-[![Status: Deployed Prototype](https://img.shields.io/badge/status-deployed%20prototype-2EA44F)](https://missile-defender-circle-blaster.lovable.app/)
+A fictional real-time simulation used to explore animation loops, Canvas rendering, detection geometry, collision handling, and entity lifecycles.
 
-A fictional real-time Canvas simulation of radar scanning, threat detection, interceptor guidance, collision handling, and particle explosions, developed with Lovable, React, and TypeScript.
+[Live demo](https://missile-defender-circle-blaster.lovable.app/) · [Repository](https://github.com/moslemajra85/missile-defender-circle-blaster) · [System design](https://github.com/moslemajra85/missile-defender-circle-blaster/blob/main/docs/system-design.md)
 
-[![Missile Defender live radar simulation](https://raw.githubusercontent.com/moslemajra85/missile-defender-circle-blaster/main/docs/screenshots/missile-defender-live.png)](https://missile-defender-circle-blaster.lovable.app/)
+## Technical focus
 
-- [Live simulation](https://missile-defender-circle-blaster.lovable.app/)
-- [Source code and project overview](https://github.com/moslemajra85/missile-defender-circle-blaster)
-- [System design and future architecture](https://github.com/moslemajra85/missile-defender-circle-blaster/blob/main/docs/system-design.md)
-- Focus: animation loops, simulation state, Canvas rendering, detection geometry, entity lifecycles, and extensible architecture
-
----
-
-### Zakn
-
-A product-validation web app designed to help founders test project ideas before wasting money on the wrong direction.
-
-![Zakn Project Screenshot](./assets/zakn-preview.png)
-
-- Live Demo: https://zakintest-c7j3qezy.manus.space/
-- Portfolio Preview: https://portofio-sigma.vercel.app/
-- Focus: product clarity, landing page communication, responsive UI, founder-focused experience
-
----
-
-### Portfolio Website
-
-A product-minded developer portfolio designed as a proof page, not only a resume page.
-
-![Portfolio Screenshot](./assets/portfolio-preview.png)
-
-- Live Demo: https://portofio-sigma.vercel.app/
-- Focus: responsive interface, project presentation, positioning, UX clarity
-
----
-
-### NATHRA
-
-A health-risk analysis web app focused on making health-related information easier to understand through a clear digital experience.
-
-![NATHRA Screenshot](./assets/nathra-preview.png)
-
-- Live Demo: https://nathra.vercel.app/
-- Code: https://github.com/moslemajra85/nathra
-- Focus: product flow, health-risk analysis, frontend clarity, deployed prototype
-
----
-
-## Current Focus
-
-```txt
-Frontend quality
-Backend/API design
-AI-assisted applications
-Testing and CI/CD
-Docker and deployment
-Production-minded project structure
+```text
+Frontend foundations     HTML, CSS, JavaScript, accessibility, responsive UI
+Application development TypeScript, React, Node.js, Express, REST APIs
+Data and persistence     MongoDB, PostgreSQL, Prisma, browser storage
+Engineering practice     Git, testing, Docker, CI/CD, documentation
+Currently developing     System design, Kubernetes, distributed systems
 ```
 
----
+## What I value in software
 
-## Tech Stack
+- Clear code that students and teammates can reason about
+- Small functions and explicit responsibility boundaries
+- Documentation that explains decisions rather than repeating code
+- Tests that demonstrate behavior and protect important flows
+- Honest labels for prototypes, learning projects, and production-ready work
+- Technology choices driven by a real requirement
 
-### Frontend
+## Current direction
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## How I Build
-
-I try to approach projects like products:
-
-1. Understand the user problem.
-2. Design a clear flow.
-3. Build the smallest useful version.
-4. Deploy it.
-5. Document the decisions.
-6. Improve the structure.
-7. Add production-minded features.
-
----
-
-## GitHub Direction
-
-My GitHub is being cleaned and upgraded around serious, readable, deployed projects.
-
-The goal is simple:
-
-> Each public repository should explain what the project does, why it exists, how it works, and what I learned from it.
-
----
+I am organizing my teaching repositories into clearer learning paths and upgrading representative projects with lesson objectives, exercises, solutions, and common debugging mistakes. In parallel, I am deepening my software-engineering work in testing, backend design, deployment, and distributed systems.
 
 ## Contact
 
-- Portfolio: https://portofio-sigma.vercel.app/
-- Email: ajra.new.era@gmail.com
+- [Portfolio](https://portofio-sigma.vercel.app/)
+- [Email](mailto:ajra.new.era@gmail.com)
