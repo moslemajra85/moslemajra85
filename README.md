@@ -63,7 +63,7 @@ A visual learning environment that makes algorithm execution inspectable through
 
 - [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
 - [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
-- Current milestone: responsive handbook shell and a complete Bubble Sort lesson with playback controls, immutable algorithm events, and unit tests
+- Current milestone: responsive handbook shell, shared lesson player, complete Bubble Sort and Selection Sort lessons, and 14 passing algorithm tests
 - Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
 [![Cartesian Bubble Sort lesson](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/bubble-sort-lesson.png)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
