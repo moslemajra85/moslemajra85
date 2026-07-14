@@ -38,20 +38,6 @@ My teaching approach is practical and incremental:
 
 I want students to understand not only **what works**, but **why it works**, how to debug it, and when a different design would be better.
 
-## Teaching sample
-
-### Study List — state-driven JavaScript
-
-[![Status: Teaching Sample](https://img.shields.io/badge/status-teaching%20sample-6D28D9)](https://github.com/moslemajra85/student-todo-list)
-[![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=000)](https://github.com/moslemajra85/student-todo-list)
-
-A dependency-free task manager used to explain how application state drives the user interface.
-
-- [Source code and lesson overview](https://github.com/moslemajra85/student-todo-list)
-- Concepts: arrays as state, immutable updates, derived data, DOM rendering, browser storage, and accessibility
-- Teaching material: a guided explanation that moves from direct DOM mutation to a predictable state → render loop
-- Engineering focus: semantic HTML, keyboard support, screen-reader announcements, responsive design, and documented limitations
-
 ## Selected engineering work
 
 ### Cartesian — interactive algorithm handbook
@@ -68,6 +54,20 @@ A visual learning environment that makes algorithm execution inspectable through
 - Focus: semantic algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
 [![Cartesian Binary Search lesson](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/binary-search-lesson.png)](https://moslemajra85.github.io/cartesian-interactive-algorithms/#binary-search)
+
+### Review Intelligence — AI review summarizer
+
+[![Status: Prototype](https://img.shields.io/badge/status-prototype-7C3AED)](https://github.com/moslemajra85/my-app-ai)
+[![TypeScript](https://img.shields.io/badge/TypeScript-React%20%2B%20Express-3178C6?logo=typescript&logoColor=white)](https://github.com/moslemajra85/my-app-ai)
+
+A full-stack prototype that turns recent product reviews into a concise AI-generated summary and caches the result for fast repeat requests.
+
+- [Repository and setup guide](https://github.com/moslemajra85/my-app-ai)
+- Implemented path: React review UI, Express API, local TinyLlama inference through Ollama, Prisma persistence, and seven-day summary caching
+- Focus: AI integration boundaries, server-state UX, repository/service separation, and honest prototype documentation
+- Current status: local development project; the screenshot below is a product-direction concept, not a deployed application
+
+[![Review Intelligence concept interface](https://raw.githubusercontent.com/moslemajra85/my-app-ai/main/docs/images/review-intelligence-concept.png)](https://github.com/moslemajra85/my-app-ai)
 
 ### Ticketing — microservices learning platform
 
