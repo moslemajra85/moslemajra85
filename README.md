@@ -64,7 +64,7 @@ A visual learning environment that makes algorithm execution inspectable through
 - [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
 - [Open the live application](https://moslemajra85.github.io/cartesian-interactive-algorithms/)
 - [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
-- Current milestone: four sorting lessons including recursive Merge Sort, semantic range visualization, typed routing, custom arrays, local progress, prediction checkpoints, 82 passing tests, and quality-gated deployment
+- Current milestone: dual memory-cell and magnitude-bar visualization, directional swaps, staggered merge motion, four sorting lessons, typed routing, custom arrays, 82 passing tests, and quality-gated deployment
 - Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
 [![Cartesian Merge Sort lesson](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/merge-sort-lesson.png)](https://moslemajra85.github.io/cartesian-interactive-algorithms/#merge-sort)
