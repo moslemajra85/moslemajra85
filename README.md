@@ -64,10 +64,10 @@ A visual learning environment that makes algorithm execution inspectable through
 - [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
 - [Open the live application](https://moslemajra85.github.io/cartesian-interactive-algorithms/)
 - [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
-- Current milestone: three sorting lessons, shared playback architecture, custom validated arrays, keyboard controls, local progress, invariant-based prediction checkpoints, 60 passing tests, and quality-gated GitHub Pages deployment
+- Current milestone: typed lesson catalogue and routing, three sorting lessons, custom validated arrays, keyboard controls, local progress, invariant-based prediction checkpoints, 74 passing tests, and quality-gated GitHub Pages deployment
 - Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
-[![Cartesian custom sorting visualization](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/custom-array-desktop.png)](https://moslemajra85.github.io/cartesian-interactive-algorithms/)
+[![Cartesian lesson catalogue](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/lesson-catalogue-desktop.png)](https://moslemajra85.github.io/cartesian-interactive-algorithms/#arrays)
 
 ### Ticketing — microservices learning platform
 
