@@ -72,12 +72,16 @@ A full-stack prototype that turns recent product reviews into a concise AI-gener
 ### Ticketing — microservices learning platform
 
 [![Status: Under Development](https://img.shields.io/badge/status-under%20development-F59E0B)](https://github.com/moslemajra85/ticketing-app)
+[![TypeScript + Kubernetes](https://img.shields.io/badge/TypeScript-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/moslemajra85/ticketing-app)
 
 A ticket marketplace built incrementally to study service boundaries, database ownership, authentication, container orchestration, and distributed-system trade-offs.
 
 - [Repository](https://github.com/moslemajra85/ticketing-app) · [System architecture](https://github.com/moslemajra85/ticketing-app/blob/main/docs/system-architecture.md)
 - Implemented foundation: validated signup, password hashing, MongoDB persistence, Docker, Kubernetes, Ingress NGINX, and Skaffold
-- Current status is documented honestly; product mockups describe direction, not completed functionality
+- Planned direction: independently owned ticket, order, expiration, and payment services coordinated through explicit events
+- Current status: authentication foundation only; the marketplace screenshot below is a product-vision concept, not an implemented frontend
+
+[![Ticketing marketplace product vision](https://raw.githubusercontent.com/moslemajra85/ticketing-app/main/docs/mockups/ticketing-marketplace-hero.png)](https://github.com/moslemajra85/ticketing-app)
 
 ### Mossy Game Explorer
 
