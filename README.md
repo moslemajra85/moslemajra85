@@ -62,11 +62,12 @@ A dependency-free task manager used to explain how application state drives the 
 A visual learning environment that makes algorithm execution inspectable through animated state, synchronized pseudocode, and step-by-step reasoning.
 
 - [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+- [Open the live application](https://moslemajra85.github.io/cartesian-interactive-algorithms/)
 - [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
-- Current milestone: three sorting lessons, shared playback architecture, custom validated arrays, keyboard controls, local progress, invariant-based prediction checkpoints, responsive visualization, and 60 passing tests
+- Current milestone: three sorting lessons, shared playback architecture, custom validated arrays, keyboard controls, local progress, invariant-based prediction checkpoints, 60 passing tests, and quality-gated GitHub Pages deployment
 - Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
-[![Cartesian custom sorting visualization](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/custom-array-desktop.png)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+[![Cartesian custom sorting visualization](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/custom-array-desktop.png)](https://moslemajra85.github.io/cartesian-interactive-algorithms/)
 
 ### Ticketing — microservices learning platform
 
