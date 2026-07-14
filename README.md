@@ -63,10 +63,10 @@ A visual learning environment that makes algorithm execution inspectable through
 
 - [Repository and project overview](https://github.com/moslemajra85/cartesian-interactive-algorithms)
 - [Architecture and engineering decisions](https://github.com/moslemajra85/cartesian-interactive-algorithms/blob/main/docs/ARCHITECTURE.md)
-- Current milestone: three sorting lessons, shared playback architecture, keyboard controls, local progress, invariant-based prediction checkpoints, responsive visualization, and 45 passing tests
+- Current milestone: three sorting lessons, shared playback architecture, custom validated arrays, keyboard controls, local progress, invariant-based prediction checkpoints, responsive visualization, and 60 passing tests
 - Focus: algorithm visualization, event-driven animation, accessibility, responsive product design, and educational UX
 
-[![Cartesian Bubble Sort lesson](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/bubble-sort-lesson.png)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
+[![Cartesian custom sorting visualization](https://raw.githubusercontent.com/moslemajra85/cartesian-interactive-algorithms/main/docs/images/custom-array-desktop.png)](https://github.com/moslemajra85/cartesian-interactive-algorithms)
 
 ### Ticketing — microservices learning platform
 
