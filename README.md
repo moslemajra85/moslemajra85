@@ -130,3 +130,13 @@ I am organizing my teaching repositories into clearer learning paths and upgradi
 - [Email](mailto:ajra.new.era@gmail.com)
 
 <!-- Profile content maintained in the default branch. -->
+
+## Canvas Atelier — Creative Coding Studio
+
+A professional JavaScript creative-coding studio for learning generative art, recursion, animation, canvas rendering, debugging, and modular frontend architecture.
+
+[![Open Canvas Atelier](https://img.shields.io/badge/Open%20Canvas%20Atelier-00a8c6?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/moslemajra85/canvas-atelier)
+
+[![Canvas Atelier studio screenshot](https://raw.githubusercontent.com/moslemajra85/canvas-atelier/main/images/studio-overview.png)](https://github.com/moslemajra85/canvas-atelier)
+
+**Highlights:** CodeMirror syntax highlighting · sandboxed Canvas runtime · animated fractal and flight lessons · visible console errors · written architecture documentation
